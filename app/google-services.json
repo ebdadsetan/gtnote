@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "498251280896",
+    "firebase_url": "https://bbbbbbbb-guns.firebaseio.com",
+    "project_id": "bbbbbbbb-guns",
+    "storage_bucket": "bbbbbbbb-guns.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498251280896:android:fccb1f0b8c7681ec",
+        "android_client_info": {
+          "package_name": "gt.com.gtnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498251280896-gmvdh20q6r18d0k67skek4o4rb9h7901.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALBxhGYU3ge6B0_TE31rJQtWaahaMTMXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498251280896-gmvdh20q6r18d0k67skek4o4rb9h7901.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

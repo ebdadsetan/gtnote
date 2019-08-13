@@ -27,6 +27,11 @@
             android:theme="@style/AppTheme.NoActionBar"/>
         <activity android:name=".GeneralSettingsActivity" />
         <activity android:name=".CurrentNoteSettings" android:theme="@style/Theme.AppCompat.Dialog" android:excludeFromRecents="true"/>
+        <service android:name="com.emarsys.service.EmarsysMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
     </application>
 
 </manifest>
